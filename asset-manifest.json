@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactjs-frontend-gpt3/static/css/main.3aa880bd.css",
-    "main.js": "/reactjs-frontend-gpt3/static/js/main.3aa9ccb0.js",
+    "main.js": "/reactjs-frontend-gpt3/static/js/main.8f1627ac.js",
     "static/js/787.5fed8cb4.chunk.js": "/reactjs-frontend-gpt3/static/js/787.5fed8cb4.chunk.js",
     "static/media/ai.png": "/reactjs-frontend-gpt3/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/reactjs-frontend-gpt3/static/media/possibility.525f13b61a2157d44de0.png",
@@ -14,11 +14,11 @@
     "static/media/logo.svg": "/reactjs-frontend-gpt3/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/reactjs-frontend-gpt3/index.html",
     "main.3aa880bd.css.map": "/reactjs-frontend-gpt3/static/css/main.3aa880bd.css.map",
-    "main.3aa9ccb0.js.map": "/reactjs-frontend-gpt3/static/js/main.3aa9ccb0.js.map",
+    "main.8f1627ac.js.map": "/reactjs-frontend-gpt3/static/js/main.8f1627ac.js.map",
     "787.5fed8cb4.chunk.js.map": "/reactjs-frontend-gpt3/static/js/787.5fed8cb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3aa880bd.css",
-    "static/js/main.3aa9ccb0.js"
+    "static/js/main.8f1627ac.js"
   ]
 }
