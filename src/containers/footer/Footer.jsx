@@ -37,7 +37,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="gpt3__footer-copyright">
-                <p>@2021 GPT-3. All rights reserved | <span className="gradient__text">Chanchal Kumar Mandal</span></p>
+                <p>@2021 GPT-3. All rights reserved | By <span className="gradient__text">Chanchal Kumar Mandal</span></p>
             </div>
         </div>
     )
