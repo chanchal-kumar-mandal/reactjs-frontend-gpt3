@@ -1,6 +1,8 @@
 ## Description
 Figma Design To A Fully Responsive Modern UI/UX Website On React JS Function Based Components. Design Link: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1
 
+## Live App: https://chanchal-kumar-mandal.github.io/reactjs-frontend-gpt3/
+
 ## Demo Screenshots
 
 <img width="1440" alt="Screen Shot 2022-04-17 at 11 43 11 PM" src="https://user-images.githubusercontent.com/14269798/163727468-e2d850df-c4c4-49d8-853e-414431aa9bf7.png">
