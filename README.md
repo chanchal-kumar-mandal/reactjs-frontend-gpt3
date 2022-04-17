@@ -1,5 +1,5 @@
 ## Description
-This is advanced modern GPT-3 Frontend application on reactjs functio based components. Design Link: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1
+Figma Design To A Fully Responsive Modern UI/UX Website On React JS Function Based Components. Design Link: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1
 
 ## Demo Screenshots
 
