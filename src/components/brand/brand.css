@@ -1,0 +1,22 @@
+.gpt3__brand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.gpt3__brand img {
+    margin: 0 2rem;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 450px) {
+    .gpt3__brand {
+        flex-direction: column;
+    }
+
+    .gpt3__brand img {
+        margin: 1rem 0;
+    }
+}
+
